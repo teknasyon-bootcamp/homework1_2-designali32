@@ -1,1 +1,5 @@
-[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-f059dc9a6f8d3a56e377f745f24479a46679e63a5d9fe6f495e02850cd0d8118.svg)](https://classroom.github.com/online_ide?assignment_repo_id=5412990&assignment_repo_type=AssignmentRepo)
+Merhabalar,
+Bu projede dışardan alınan cinsiyet verisine göre bazal metabolizma hesaplaması yapılmıştır. Hesaplama verileri app.php dosyasındadır.
+Float değişkenin virgülden sonraki gözükmeyen kısmından dolayı tahmin değerine ekrandaki veri dahi girilse eşitlik sağlanamamıştır.
+Float değişkenler arasındaki farka bakarak hesaplamaya çalıştım. Fakat o durumda da eşitlik yada çok yakın değerlere ulaşamadım.
+Proje içerisinde hesaplanan BMR değerinin tahmin değerine göre olan durumu karşılaştırma operatörleri if-elseif ile kontrol edilmiştir.
